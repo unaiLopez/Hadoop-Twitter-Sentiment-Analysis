@@ -2,10 +2,10 @@ from tweepy.streaming import StreamListener
 from tweepy import OAuthHandler
 from tweepy import Stream
 
-api_key = 'zLLMeyiztjdJvRACz7hCNW4BQ'
-api_secret = 'AKlPRe9T8uu2eryLMB6RHNW5L1wk4SZTRqp0iRKC4FzYCq4fpf'
-access_token = '1259880175048720385-3ep4rNQZu2FeooOJZ1U64epgzn60fU'
-access_token_secret = 'D2n10T7dvoaqvHI36RNAZX8EsZgVdcEBLF8mkMO8JLQY7'
+api_key = '***********************'
+api_secret = '***********************'
+access_token = '***********************'
+access_token_secret = '***********************'
 
 tracklist = ['#covid19', '#covid', '#coronavirus']
 lang = ['en']
